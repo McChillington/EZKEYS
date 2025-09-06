@@ -15,7 +15,7 @@ local Note = false
 -- Only do the following if you ticked discord true
 
 local discordLink = "" -- Put your discord link here
-local note = "" -- Put a note here (Leave blank if you don't want one.)
+local note = "" -- Put a note here
 
 -- Don't touch the rest of the script or it will break.
 
