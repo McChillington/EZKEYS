@@ -7,7 +7,6 @@ local function ScriptHere() -- you will need to put your script on line 5, it ca
 
 end
 
-local note = "" -- Put a note here (Leave blank if you don't want one.)
 local scriptTitle = "" -- Put the title of your script (you can also leave this blank)
 
 local Discord = true -- Put "false" if you don't want the player to be able to copy a discord link, put true if you do.
@@ -16,6 +15,7 @@ local Note = false
 -- Only do the following if you ticked discord true
 
 local discordLink = "" -- Put your discord link here
+local note = "" -- Put a note here (Leave blank if you don't want one.)
 
 -- Don't touch the rest of the script or it will break.
 
