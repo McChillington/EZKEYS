@@ -10,9 +10,9 @@ end
 local scriptTitle = "" -- Put the title of your script (you can also leave this blank)
 
 local Discord = true -- Put "false" if you don't want the player to be able to copy a discord link, put true if you do.
-local Note = false
+local Note = false -- Tick either true or false if youre writing a note
 
--- Only do the following if you ticked discord true
+-- Only do the following if you ticked one of the variables true
 
 local discordLink = "" -- Put your discord link here
 local note = "" -- Put a note here
